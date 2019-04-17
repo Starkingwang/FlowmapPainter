@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c9857687674d7247a755c67e1f4b435
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - viewBg: {instanceID: 0}
+  - dirmap: {instanceID: 0}
+  - materialViewer: {fileID: 2100000, guid: ee4ca143b6127014bb6fb8eec0fa610b, type: 2}
+  - materialBaker: {fileID: 2100000, guid: 13d5e42ee1eaa65489ae2314442d6aa6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
